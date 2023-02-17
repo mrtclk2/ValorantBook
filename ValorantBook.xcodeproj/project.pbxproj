@@ -13,6 +13,8 @@
 		EF82198E299FBA6F002EF3F8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EF82198C299FBA6F002EF3F8 /* Main.storyboard */; };
 		EF821990299FBA70002EF3F8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EF82198F299FBA70002EF3F8 /* Assets.xcassets */; };
 		EF821993299FBA70002EF3F8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EF821991299FBA70002EF3F8 /* LaunchScreen.storyboard */; };
+		EF82199D299FBB8E002EF3F8 /* toDetailsVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF82199C299FBB8E002EF3F8 /* toDetailsVC.swift */; };
+		EF82199F299FC028002EF3F8 /* Valorant.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF82199E299FC028002EF3F8 /* Valorant.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		EF82198F299FBA70002EF3F8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EF821992299FBA70002EF3F8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EF821994299FBA70002EF3F8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EF82199C299FBB8E002EF3F8 /* toDetailsVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = toDetailsVC.swift; sourceTree = "<group>"; };
+		EF82199E299FC028002EF3F8 /* Valorant.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Valorant.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,10 +63,12 @@
 				EF821986299FBA6F002EF3F8 /* AppDelegate.swift */,
 				EF821988299FBA6F002EF3F8 /* SceneDelegate.swift */,
 				EF82198A299FBA6F002EF3F8 /* ViewController.swift */,
+				EF82199C299FBB8E002EF3F8 /* toDetailsVC.swift */,
 				EF82198C299FBA6F002EF3F8 /* Main.storyboard */,
 				EF82198F299FBA70002EF3F8 /* Assets.xcassets */,
 				EF821991299FBA70002EF3F8 /* LaunchScreen.storyboard */,
 				EF821994299FBA70002EF3F8 /* Info.plist */,
+				EF82199E299FC028002EF3F8 /* Valorant.swift */,
 			);
 			path = ValorantBook;
 			sourceTree = "<group>";
@@ -140,6 +146,8 @@
 			files = (
 				EF82198B299FBA6F002EF3F8 /* ViewController.swift in Sources */,
 				EF821987299FBA6F002EF3F8 /* AppDelegate.swift in Sources */,
+				EF82199D299FBB8E002EF3F8 /* toDetailsVC.swift in Sources */,
+				EF82199F299FC028002EF3F8 /* Valorant.swift in Sources */,
 				EF821989299FBA6F002EF3F8 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
